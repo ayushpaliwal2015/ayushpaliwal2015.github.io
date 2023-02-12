@@ -40,3 +40,11 @@ Hello and welcome! I am a data-driven individual with a passion for using data a
 - Built interactive real-time dashboards using Kibana for monitoring and analysis of device activity and weather trends
 - Developed and optimized RESTful APIs using the Django framework for mobile app integration and database operations, enabling seamless user onboarding and plot, crop, irrigation, and alert management
 
+
+## Self-Directed Projects
+
+### Real-time Digit Classification Web Application - January 2023
+- Implemented a user-friendly front-end interface that allows users to draw digits on a canvas and submit them for classification
+- Trained a CNN model on an augmented MNIST dataset using TensorFlow, achieving 99% accuracy on the testing dataset
+- Preprocessed user-drawn images for prediction through image processing techniques, including decoding base64 encoded data, converting RGB images to grayscale, resizing to the required dimensions, expanding the dimensions to add a channel, and scaling the images
+- Deployed the web application on an AWS EC2 instance using Gunicorn and Nginx for efficient handling of incoming requests
