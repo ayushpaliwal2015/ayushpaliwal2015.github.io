@@ -17,3 +17,13 @@ Hello and welcome! I am a data-driven individual with a passion for using data a
 - Degree: B.Tech in Aerospace Engineering 
 - Graduation: 2019 
 
+
+## Skills
+
+### Technical Skills
+- Programming:
+  - SQL, Python (Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, Keras), R (ML packages, Tidyverse, ggplot), Pyspark
+- Techniques:
+  - Linear Regression, Logistic Regression, SVM, Random Forest, Gradient Boosting (GBM, LightGBM & AdaBoost), Deep Learning (CNN, LSTM and RNN), Clustering (K-Means), Time Series Forecasting (ARIMA), kNN, A/B testing, PCA, NLP
+- Software and Tools:
+  - MySQL/MS SQL, Apache Cassandra, MongoDB, Elasticsearch, Apache Kafka, GitLab, Tableau, Linux, Spark, Databricks, AWS
