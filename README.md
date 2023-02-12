@@ -1,2 +1,5 @@
 ## Ayush Paliwal
 ayushpaliwal2015@gmail.com | [Linked°](https://www.linkedin.com/in/ayush-paliwal-2015/) | [GitHub°](https://github.com/ayushpaliwal2015) | [Tableau°](https://public.tableau.com/app/profile/ayush5350) | +1-513-837-0308
+
+## Introduction
+Hello and welcome! I am a data-driven individual with a passion for using data analytics to drive business decisions and uncover insights. With a background in both engineering and business analytics, I have developed a unique set of technical and analytical skills that I use to tackle complex problems and create value for organizations. My expertise in machine learning, data visualization, and software development has been honed through various projects, internships, and hackathons, where I have consistently demonstrated my ability to collaborate with cross-functional teams and deliver results. I am eager to bring my skills and experience to new challenges and opportunities, and I am confident that I can make a meaningful contribution to any organization.
