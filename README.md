@@ -48,3 +48,18 @@ Hello and welcome! I am a data-driven individual with a passion for using data a
 - Trained a CNN model on an augmented MNIST dataset using TensorFlow, achieving 99% accuracy on the testing dataset
 - Preprocessed user-drawn images for prediction through image processing techniques, including decoding base64 encoded data, converting RGB images to grayscale, resizing to the required dimensions, expanding the dimensions to add a channel, and scaling the images
 - Deployed the web application on an AWS EC2 instance using Gunicorn and Nginx for efficient handling of incoming requests
+
+
+## Academic Projects
+
+### Deutsche Telekom Innovation Labs, Ben Gurion University of the Negev Be’er Sheva, Israel
+- Research Intern - May 2019 - July 2019
+  - Experimented with various proposed stability-based methodologies for unsupervised optimization of embedding dimensions
+  - Selected Node Pair Distance Correlation metric for stability measurement based on its computational efficiency and accuracy
+  - Successfully determined the optimum dimension of APK embedding using the metric, leading to continued research opportunity
+
+### Vinod Gupta School of Management, IIT Kharagpur Kharagpur, India
+- Bachelor’s thesis - November 2018 - December 2018
+  - Studied the relationship between overall customer ratings and service aspect ratings using airline reviews dataset from web
+  - Extracted unbiased service aspect ratings via sentiment analysis on review sentences with service aspect-related words
+  - Identified key service aspects driving customer satisfaction via linear regression analysis of unbiased and biased ratings
