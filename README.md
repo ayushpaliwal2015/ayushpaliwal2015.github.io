@@ -18,9 +18,8 @@ Hello and welcome! I am a data-driven individual with a passion for using data a
 - Graduation: 2019 
 
 
-## Skills
 
-### Technical Skills
+## Technical Skills
 - Programming:
   - SQL, Python (Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, Keras), R (ML packages, Tidyverse, ggplot), Pyspark
 - Techniques:
