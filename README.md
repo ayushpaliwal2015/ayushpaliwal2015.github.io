@@ -65,7 +65,7 @@ Hello and welcome! I am a data-driven individual with a passion for using data a
   - Identified key service aspects driving customer satisfaction via linear regression analysis of unbiased and biased ratings
 
 
-# Machine Learning Hackathons
+## Machine Learning Hackathons
 - Achieved 10th place among ∼500 teams in the LTFS Data Science FinHack 3 (Analytics Vidhya) hackathon January 2021
 - Achieved 3rd place among ∼2400 teams in the JOB-A-THON (Analytics Vidhya) hackathon February 2021
 - Achieved 6th place among ∼450 teams in the JantaHack: Machine Learning for Banking hackathon May 2021
